@@ -1,0 +1,25 @@
+{
+  "name": "HL GAMING OFFICIAL",
+  "short_name": "HL GAMING",
+  "description": "HL GAMING is a platform for Gaming Tips, Trending Games, Upcoming Gaming News, Top Games, Game Reviews, and a platform for downloading games.",
+  "start_url": "https://www.hlgamingofficial.com",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0F9D58",
+  "dir": "ltr",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnxCkDVOspf4Nn-c1lzODwK4JEOvaAVe-jnmggbjoSIV8o2ojpSv3uJrLRUL3zu4KFu8wW-fpQ92kSjK4gxFjmgyiIMorgX4YORd4u9FLqXorPgAL4BzJ10J9F755AUksPENF-5rNM8B12yzHKsSVoQoKQw_qcJj9lFYxBdRVjvnBQamVJYsHTTF8Tpw/s192/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxO5mm-2nxueCB_u89M2zDAzPlLswinIKXt2ljq6TzBE8aFgdUzv47inb33mbb6WJnldd79PFyf4LMPUlYsl8hqwWZhisBV09mw85H4VPk6Ns9fIZ6KaM8WgnLcwcODAkekHj1CvjIQxphcnexJBtYeZnMkADmKF4r9i2ZwPcoRCBtrPwoDZY1Ok9oznQ/s512/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
