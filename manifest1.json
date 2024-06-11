@@ -4,7 +4,7 @@
   "description": "HL GAMING is a platform for Gaming Tips, Trending Games, Upcoming Gaming News, Top Games, Game Reviews, and a platform for downloading games.",
   "start_url": "https://www.hlgamingofficial.com",
   "scope": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
   "theme_color": "#0F9D58",
